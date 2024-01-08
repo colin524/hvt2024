@@ -7,7 +7,7 @@ A (fake) tool to (not) hack people
 
 ## How it works
 Basically all the values it tells are randomly generated, so they look kinda real.
-The os as mor changes to be Windows fo it to look more legit
+The os as more chances to be Windows for it to look more legit
 
 ## Why ?
 To prank my friends (and yours too if you want)
