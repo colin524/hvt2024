@@ -3,6 +3,8 @@
 > Disclaimer : this joke software is totally fake and should not be used for malicious purposes
 > Also, i lied in my webiste link (colin524.github.io/hvt2024) but this README says the truth
 
+> This software won't receive any updates from now on (26/09/2024) 
+
 A (fake) tool to (not) hack people
 
 ## How it works
